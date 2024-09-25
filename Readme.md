@@ -20,7 +20,7 @@ I'm a **Blockchain Developer** and **Smart Contract Auditor** with expertise in 
 | aug, 24  |   Trait Forge    | CodeArena |  -   |       -       |   2    |  -  | [Report](https://code4rena.com/audits/2024-07-basin)                      |
 | Aug, 24  |   Tadle          | CodeHawks |  -   |       1       |   -    |  1  | [Report](https://codehawks.cyfrin.io/c/2024-08-tadle) |
 | Aug, 24  |   Winnables      | Sherlock  |  -   |       1       |   -    |  -  | [Report]()   
-| Aug, 24  |   Phi      | code4rena  |  -   |       -       |   1    |  -  | [Report]()                                            |
+| sep, 24  |   Phi      | code4rena  |  -   |       -       |   1    |  -  | [Report]()                                            |
 
 
 
