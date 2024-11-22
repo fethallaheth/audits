@@ -1,4 +1,4 @@
-# Hi there, I'm ChaosSR👋
+cd# Hi there, I'm ChaosSR👋
 
 I'm a **Blockchain Developer** and **Smart Contract Auditor** with expertise in the **Ethereum Virtual Machine (EVM)** ecosystem. I focus on writing and auditing secure, efficient smart contracts across multiple blockchain platforms. I also work with  **Move** to develop contracts on chains like **Aptos** and **Movement**
 
@@ -21,7 +21,7 @@ I'm a **Blockchain Developer** and **Smart Contract Auditor** with expertise in 
 | Aug, 24  |   Tadle          | CodeHawks |  -   |       1       |   -    |  1  | [Report](https://codehawks.cyfrin.io/c/2024-08-tadle) |
 | Aug, 24  |   Winnables      | Sherlock  |  -   |       1       |   -    |  -  | [Report]()   
 | sep, 24  |   Phi      | code4rena  |  -   |       -       |   1    |  -  | [Report]()                                            |
-
+| oct, 24  |    Axion     | Sherlock  |  11th   |       -       |   1    |  -  | [Report](https://github.com/sherlock-audit/2024-10-axion-judging/issues/55)     
 
 
 ## 📫 Let's Connect
