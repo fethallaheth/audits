@@ -7,7 +7,7 @@ I'm a **Blockchain Developer** and **Smart Contract Auditor** with expertise in 
 
 | Type      | Platform                                                                   | 
 | --------- | -------------------------------------------------------------------------- | 
-| Solo      | [sherlock](https://audits.sherlock.xyz/watson/unnamed)                     | 
+| Solo      | [sherlock](https://audits.sherlock.xyz/watson/ChaosSR)                     | 
 | Solo      | [CodeArena](https://code4rena.com/@unnamed)                                | 
 
 
@@ -22,6 +22,9 @@ I'm a **Blockchain Developer** and **Smart Contract Auditor** with expertise in 
 | Aug, 24  |   Winnables      | Sherlock  |  -   |       1       |   -    |  -  | [Report]()   
 | sep, 24  |   Phi      | code4rena  |  -   |       -       |   1    |  -  | [Report]()                                            |
 | oct, 24  |    Axion     | Sherlock  |  11th   |       -       |   1    |  -  | [Report](https://github.com/sherlock-audit/2024-10-axion-judging/issues/55)     
+| dec, 24  |    Oku     | Sherlock  |  -   |       1       |   1    |  -  | [Report](https://audits.sherlock.xyz/contests/641?filter=results)     
+
+
 
 
 ## 📫 Let's Connect
