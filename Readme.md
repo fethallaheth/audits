@@ -2,6 +2,7 @@
 
 I'm a **Blockchain Developer** and **Smart Contract Auditor** with expertise in the **Ethereum Virtual Machine (EVM)** ecosystem. I focus on writing and auditing secure, efficient smart contracts across multiple blockchain platforms. I also work with  **Move** to develop contracts on chains like **Aptos** and **Movement**
 
+---
 
 ### Audit Contests - Solo - 
 |Contest|Description|Findings|Rank|Report|
@@ -15,12 +16,15 @@ I'm a **Blockchain Developer** and **Smart Contract Auditor** with expertise in 
 |[Oku](https://audits.sherlock.xyz/contests/641?filter=questions)|order types in DeFi|[1H - 1M](https://audits.sherlock.xyz/contests/641?filter=results)| - | [📄](https://audits.sherlock.xyz/contests/641?filter=results)|
 
 
+---
+
 ### Audit Contests - Team - 
 | Team |Contest|Description|Findings|Rank|Report|
 |:-----|:------|:----------|:-------|:--:|:----:|
 |[Heavyweight hunters](https://code4rena.com/@Heavyweight_hunters)|[ Initia Move ](https://code4rena.com/audits/2025-01-initia-move)|interwoven rollups|[1H]()|11th| [Not published yet]() |
 
 
+---
 
 
 ### 📫 Let's Connect
