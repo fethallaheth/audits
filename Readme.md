@@ -7,6 +7,11 @@ I'm a **Blockchain Developer** and **Smart Contract Auditor** with expertise in 
 ### Audit Contests - Solo - 
 |Contest|Description|Findings|Rank|Report|
 |:------|:----------|:-------|:--:|:----:|
+|[3jane](https://audits.sherlock.xyz/contests/1184)|   money market  | [2H - 1M](https://audits.sherlock.xyz/contests/1184)| 15 | [Private](https://audits.sherlock.xyz/contests/1184/leaderboard) |
+|[Rezerve Money](https://audits.sherlock.xyz/contests/1134)|  treasury  | [2H - 1M](https://audits.sherlock.xyz/contests/1134)| - | [Private]() |
+|[DoDo](https://audits.sherlock.xyz/contests/991)| CrossChain | [1H / 1M](https://audits.sherlock.xyz/contests/991) | - | [📄]() |
+|[Crestal](https://audits.sherlock.xyz/contests/755)| AI agent | [1H](https://audits.sherlock.xyz/contests/755)| 11th| [📄](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/151) |
+|[SEDA](https://audits.sherlock.xyz/contests/729)| oracle infrastructure| [1H](https://audits.sherlock.xyz/contests/729)|22th| [Private](//) |
 |[Next Generation ](https://code4rena.com/audits/2025-01-next-generation)|Stablecoin|[2H](https://code4rena.com/audits/2025-01-next-generation)|6th| [Not published yet](https://github.com/code-423n4/2025-01-next-generation-findings/issues/1) |
 |[Basin ](https://code4rena.com/audits/2024-07-basin)| decentralized exchange |[ 1H ](https://code4rena.com/reports/2024-07-basin#h-01-wellupgradeable-can-be-upgraded-by-anyone)| 8th | [📄](https://github.com/code-423n4/2024-07-basin-findings/issues52) |
 |[ Axion ](https://audits.sherlock.xyz/contests/552?filter=questions)|Stablecoin |[1M](https://audits.sherlock.xyz/contests/552?filter=results)| 11th | [📄](https://github.com/sherlock-audit/2024-10-axion-judging/issues/55)|
